@@ -1,0 +1,6 @@
+{
+  "name": "Syntropy AI Coaching & Advisory",
+  "description": "Premier platform for specialized AI coaching services, executive strategy, interactive scheduling, and client milestone tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
